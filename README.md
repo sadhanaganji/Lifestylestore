@@ -29,9 +29,11 @@ _____________________________________________Folder Structure___________________
 	│    ├── common.php
 	│    ├── footer.php
 	│    └── header.php
+	├──  aboutus.php
 	├──  cart-add.php
 	├──  cart-remove.php
 	├──  cart.php 
+	|──  contactus.sql
 	├──  index.php
 	├──  lifestylestore.sql (Database of the project	)
 	├──  login.php
@@ -43,7 +45,7 @@ _____________________________________________Folder Structure___________________
 	├──  signup.php
 	├──  signup_script.php
 	└──  success.php
-	└──  lifestylestore.sql
+	
 
 ____________________________________________SETUP_________________________________________________________________________________________				
 1.) Start the Apache and MySQL modules using the XAMPP controller.
